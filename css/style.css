@@ -1,0 +1,40 @@
+body {
+  background-color: #c4fb6d;
+}
+hr {
+  /* background-color: white; */
+  /* border-style: dotted none none; */
+  border-style: none;
+  border-top-style: dotted;
+  height: 0px;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+img {
+  height: 130px;
+  border-radius: 100%;
+}
+h1 {
+  color: #6a2c70;
+}
+.name {
+  color: blue;
+  font-weight: bold;
+  /* font-style: italic; */
+}
+.name:hover {
+  color: #fa1616;
+}
+/* #rate {
+  color: red;
+} */
+#work {
+  color: blue;
+}
+/* .skill {
+  color: #fa26a0;
+ } */
+/* table {
+  text-align: center;
+} */
